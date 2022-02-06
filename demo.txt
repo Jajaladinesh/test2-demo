@@ -1,0 +1,4 @@
+hii dinesh this is your pc 
+your code is 
+print ("hii world this is pc welcome to my world")
+out put
